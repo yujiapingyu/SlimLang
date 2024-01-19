@@ -2,8 +2,8 @@
 本项目主要借助antlr，学习如何自创编程语言。
 
 ## 环境
-1. Java
-2. Python3
+1. Java(用于运行antlr)
+2. Python3(用于解析自定义代码并运行)
 ```
 pip install antlr4-python3-runtime==4.7.1
 ```
