@@ -5,7 +5,7 @@
 1. Java(用于运行antlr)
 2. Python3(用于解析自定义代码并运行)
 ```
-pip install antlr4-python3-runtime==4.7.1
+pip install -r requirements.txt
 ```
 注意：antlr4-python3-runtime版本必须和antlr4的版本一致，否则会有奇怪的错
 
