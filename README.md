@@ -14,7 +14,7 @@ pip install -r requirements.txt
 2. 算术运算
 3. 逻辑运算
 4. 条件语句
-5. 循环语句
+5. 循环语句 + break
 6. 打印语句
 
 TODO:
